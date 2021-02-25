@@ -22,10 +22,21 @@ date_format = "Jan 2006"
   organization = "Spoken Language Systems: Saarland University"
   organization_url = "https://www.lsv.uni-saarland.de/"
   title = "Statistical Natural Language Processing"
-  url = "https://www.lsv.uni-saarland.de/snlp19/"
-  certificate_url = "https://drive.google.com/file/d/1rS8qNcu9b5fG1l14j4Z5gbSgrnhq1t1J/view?usp=sharing"
+  #url = "https://www.lsv.uni-saarland.de/snlp19/"
+  url = "https://teaching.lsv.uni-saarland.de/snlp/tutors/"
+  #certificate_url = "https://drive.google.com/file/d/1rS8qNcu9b5fG1l14j4Z5gbSgrnhq1t1J/view?usp=sharing"
   date_start = "2019-04-01"
   date_end = "2019-09-01"
+  description = ""
+
+[[item]]
+  organization = "Max Planck Institute for Software Systems, Saarland University"
+  organization_url = "https://www.mpi-sws.org/"
+  title = "Seminar on Machine-Assisted Decision-Making"
+  url = "http://courses.mpi-sws.org/madm-ss21/index.html"
+  #certificate_url = "https://drive.google.com/file/d/1rS8qNcu9b5fG1l14j4Z5gbSgrnhq1t1J/view?usp=sharing"
+  date_start = "2021-04-15"
+  date_end = "2021-07-08"
   description = ""
 
 
