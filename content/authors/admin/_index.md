@@ -23,16 +23,16 @@ bio: My research interests broadly encompass applications of machine learning in
 interests:
 - Machine Learning
 - Fairness
-- Natural Language Processing
-- Robustness
 - Causality
 - Interpretability
+- Robustness
+- Natural Language Processing
 
 education:
   courses:
   - course: M.Sc. in Computer Science
     institution: Saarland University, Saarbrücken, Germany
-    year: ongoing
+    year: 2021
   - course: B.Tech. in Electronics and Communication Engineering
     institution: Heritage Institute of Technology, Kolkata, India
     year: 2015
@@ -79,4 +79,4 @@ I am currently working on my Master's thesis with the [Networked Systems](https:
 
 I am interested in research topics that broadly encompass machine learning and its applications in consequential decision-making, natural language processing and vision. I am also very interested in the aspects of fairness, interpretability, robustness and privacy of the applications of such systems.
 
-I am currently looking for available PhD positions in order to work on challenging and interesting problems in my topics of interest.
+I will be joining the Graduate program at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) as a Ph.D. student, supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).

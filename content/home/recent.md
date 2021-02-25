@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Attending the [Max Planck Intersectional Symposium on Computing and Society](https://www.cis.mpg.de/events/) (*January 2021*).
+- Attended the [Max Planck Intersectional Symposium on Computing and Society](https://www.cis.mpg.de/events/) (*January 2021*).
 
 - Attended the 2020 [International Conference on Machine Learning (ICML)](https://icml.cc/) (*July 2020*).
 
