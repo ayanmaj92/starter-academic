@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Recent Activities"
+title = "Recent News"
 subtitle = ""
 
 [content]
@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+- Attended the [ELLIS Workshop on Foundations of Algorithmic Fairness](https://sites.google.com/view/faf-workshop/about) (*March 2021*).
+
 - Attended the [Max Planck Intersectional Symposium on Computing and Society](https://www.cis.mpg.de/events/) (*January 2021*).
 
 - Attended the 2020 [International Conference on Machine Learning (ICML)](https://icml.cc/) (*July 2020*).
