@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Generating Counterfactuals for Fairness using VAE"
-event: "Master Seminar Colloquium"
+title: "On Computing Counterfactuals for Causal Fairness"
+event: "Master Thesis Colloquium"
 event_url:
 location: "Max Planck Institute for Software Systems"
 address:
@@ -11,17 +11,17 @@ address:
   region:
   postcode:
   country:
-summary: "Presented initial parts of my work for my Master seminar colloquium."
+summary: "Presented Master thesis work as part of my defense."
 abstract: "Causal notions of fairness have gathered increasing interest in recent years. Along with it, there have been suggestions of using deep learning models to approximate the causal process. We explore a similar direction in using deep generative models to approximate counterfactual quantities that are used in causal fairness. We show how we can use our method to audit existing systems for fairness, and also train a fair predictive model."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-13T15:00:32+01:00
+date: 2021-04-20T15:00:32+01:00
 #date_end: 2020-11-05T10:26:32+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-11-05T10:26:32+01:00
+publishDate: 2021-04-20T10:26:32+01:00
 
 authors: [Ayan Majumdar]
 tags: ["Deep Learning", "Fairness", "Generative Models"]
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: master_seminar.pdf
+url_slides: master-thesis_presentation.pdf
 
 url_code:
-url_pdf:
+url_pdf: "talk/master-seminar/thesis_cs_msc_majumdar_ayan.pdf"
 url_video:
 
 # Markdown Slides (optional).

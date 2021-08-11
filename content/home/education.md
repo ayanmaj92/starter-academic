@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+[[experience]]
+  title = "PhD in Computer Science"
+  company = "Max Planck Institute for Software Systems"
+  company_url = "https://www.mpi-sws.org/"
+  location = "Saarbrücken, DE"
+  date_start = "2021-05-01"
+  date_end = ""
+  description = """Doctoral student in computer science focused on fair and trustworthy machine learning systems for applications in decision making and high-stakes scenarios.
+   """
+
 
 [[experience]]
   title = "M.Sc. in Computer Science"
@@ -26,8 +36,8 @@ date_format = "Jan 2006"
   company_url = "https://saarland-informatics-campus.de/en/"
   location = "Saarbrücken, DE"
   date_start = "2017-10-01"
-  date_end = ""
-  description = """Graduate student of computer science with a strong focus on machine learning/artificial intelligence. 
+  date_end = "2021-04-15"
+  description = """Graduate student in computer science with a strong focus on machine learning/artificial intelligence. 
    * <b>Grade: 1.3 / 1.0 (German scale)</b>
    * Core courses: <i>Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning</i>
    * Advanced courses: <i>Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction</i>

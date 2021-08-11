@@ -28,8 +28,8 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "../../talk/master-seminar/thesis_cs_msc_majumdar_ayan.pdf"
+url_slides: "../../talk/master-seminar/master-thesis_presentation.pdf"
 url_video: ""
 
 # Slides (optional).

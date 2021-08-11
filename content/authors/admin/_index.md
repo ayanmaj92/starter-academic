@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: M.Sc. in Computer Science
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Saarland University
-  url: "https://saarland-informatics-campus.de/en/"
+- name: Max Planck Institute for Software Systems
+  url: "https://www.mpi-sws.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests broadly encompass applications of machine learning in decision-making, NLP and ensuring the fairness, robustness and explainability of such systems. 
+bio: My research interests broadly encompass applications of machine learning in decision-making and high-stakes scenarios while ensuring the fairness, robustness and explainability of such systems. 
 
 interests:
 - Machine Learning
@@ -30,6 +30,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Max Planck Institute for Software Systems, Saarbrücken, Germany
+    year: (ongoing)
   - course: M.Sc. in Computer Science
     institution: Saarland University, Saarbrücken, Germany
     year: 2021
@@ -44,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ayanmajumdar1992@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ayanm@mpi-sws.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ayanmaj1992
@@ -73,10 +76,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Masters student of Computer Science, currently studying at [Saarland University](https://saarland-informatics-campus.de/), Germany. I am also currently a research assistant and Master's thesis student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), working on fairness, explainability and robustness of machine learning systems. 
+I am a PhD student in Computer Science at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) and [Saarland University](https://saarland-informatics-campus.de/), Germany. I am fortunate to be advised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).   
 
-I am currently working on my Master's thesis with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group. My thesis is supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). During my Masters, I have also worked extensively with Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) of the [Spoken Language Systems](https://www.lsv.uni-saarland.de/) group at Saarland University. 
+I am broadly interested in research topics that encompass machine learning and its applications in consequential decision-making and high-stakes scenarios. I mostly focus on the aspects of fairness, interpretability and robustness of these applications.
 
-I am interested in research topics that broadly encompass machine learning and its applications in consequential decision-making, natural language processing and vision. I am also very interested in the aspects of fairness, interpretability, robustness and privacy of the applications of such systems.
-
-I will be joining the Graduate program at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org/) as a Ph.D. student, supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/).
+I completed my Master's thesis titled "On Computing Counterfactuals for Causal Fairness" with the [Networked Systems](https://people.mpi-sws.org/~gummadi/) Research Group, supervised by Prof. [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/) and Prof. [Isabel Valera](https://ivaleram.github.io/). I have also been fortunate to have collaborated with several incredible mentors: [Preethi Lahoti](https://people.mpi-inf.mpg.de/~plahoti/) ([Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems)), Prof. [Dietrich Klakow](http://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=de) ([Spoken Language Systems, Saarland University](https://www.lsv.uni-saarland.de/)), Prof. [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/) ([University of Cambridge](http://mlg.eng.cam.ac.uk/)).
