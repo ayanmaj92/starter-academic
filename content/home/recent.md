@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<div style="overflow: auto; height:250pt; width:100%;">
+
 - Attended the [ELLIS Workshop on Causethical ML](https://sites.google.com/view/ellis-causethical-ml-workshop/) (*July 2021*)
 
 - Attended the [ELLIS Workshop on Foundations of Algorithmic Fairness](https://sites.google.com/view/faf-workshop/about) (*March 2021*).
@@ -73,3 +75,4 @@ subtitle = ""
 
 - Attended  Microsoft Research conference [Frontiers of Machine Learning](https://www.microsoft.com/en-us/research/event/frontiers-in-machine-learning-2020/) (*July 2020*).
 
+</div>
