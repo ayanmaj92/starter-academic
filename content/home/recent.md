@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="overflow: auto; height:250pt; width:100%;">
+<div style="overflow: auto; height:200pt; width:100%;">
 
 - Attended the [ELLIS Workshop on Causethical ML](https://sites.google.com/view/ellis-causethical-ml-workshop/) (*July 2021*)
 
